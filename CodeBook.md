@@ -33,18 +33,18 @@ The results were stored in a file in table format.
 
 Variables of the resulting file:
 
-* subject_id
+##### subject_id
 Variable 1
 Identification of the volunteers
 Values: 1 to 30
 
-* activity_labels
+##### activity_labels
 Variable 2
 Activity the volunteers carried out. 
 Values: 
 WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-* Averages:
+##### Averages:
 Variables 3 to 68
 Values are normalized and bounded within [-1,1]
 The names are compound of several parts:
